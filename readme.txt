@@ -1,3 +1,4 @@
+are you going to merge with webphantom and nfts like BVDCAT or Sol?
 This is the state of the dmap repo shortly after deployment.
 Here is the dmap address: 0x90949c9937A11BA943C7A72C3FA073a37E3FdD96
 
